@@ -1,0 +1,12 @@
+1. Dayton Audio ND65-PR                                            (Passive Radiator)
+2. Dayton Audio DMA45-4                                            (Full-Range Driver)
+3. Polymaker PolyMax PETG or Prusament ABS                         (Filament To be used to make enclosure)
+4. XFasten High-Density EVA Foam Tape + Loctite Clear Silicone     (Sealing & Damping)
+5. Molex 105450-0101                                               (Mid- Mount USB C port)
+6. MAX98357AETE+T                                                  (Class D Audio Amplifier)
+7. BQ24040DSQT                                                     (Battery Charger IC)
+8. Seeed Studio nRF52840                                           (Bluetooth SoC)
+9. TLV75533PDBVR                                                   (Voltage Regulator (LDO))
+10. BAT54                                                          (Schottky Diodes)
+
+https://www.amazon.in/RoboComp-Center-Rocker-Toggle-Switch/dp/B0GW1SK6Y5?dib=eyJ2IjoiMSJ9.1CwHqbAUYwizY1Z1K0WZdKre8CLLDpprYbmEb_9PNTWqyjohjF5RvFQHYgcRSr029HxOQ9XFU9Yd2WoFSByQLTZC4mpo1z00oP6VspIr7XqntChIDTYswrf3dJoaJTSpmRr7esG0u7r-XJnCxbD7MD168vrldx863bm8NWvZ2WL-OKQtGgTEFOjLlDHG3WGsgi2VIhzc2M38_9MY_n1VyhJtiu9AZsDnKbQQZl6pZYEsnpHDEuILOJHanJcoKXVOJf6PUo8NBcmJ2H5TxdEh0F4194ktdUkxSr8JhkX-HH0.AAfvh377-khgNbQY7kIIHbfBj4w8bifQznZzReEkcW0&dib_tag=se&qid=1781184118&refinements=p_n_g-1003565985111%3A61707331031&s=industrial&xpid=CJ1-0rXLg6M1t&th=1
