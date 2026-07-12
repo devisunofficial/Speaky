@@ -1,6 +1,6 @@
-# Jazz
+# Speaky
 
-Jazz is a bluetooth speaker that uses ESP32 for bluetooth connection
+Speaky is a bluetooth speaker that uses ESP32 for bluetooth connection
 
 It focuses on minimalism and uses Audiophile grade equipments for good soundquality
 
@@ -12,14 +12,14 @@ It focuses on minimalism and uses Audiophile grade equipments for good soundqual
  - Daytone Speaker and Passive Radiator
 
 ### CAD Model:
-It has 3 separate printed pieces. The Enclousure, the Speaker Holder to support driver and passive radiator, and Top mesh to cover driver.
+It has 3 separate printed pieces. The Enclosure, the Speaker Holder to support driver, and Top mesh to cover driver.
 Made in Autodesk Fusion.
 
 ### PCB:
 Here's my PCB! It was made in KiCad. 
 
-Schematic : ![Complete Jazz](Assets/Schematic.png)
-PCB Footprint : ![Complete Jazz](Assets/PCB.png)
+Schematic : ![Complete Speaky](Assets/Schematic.png)
+PCB Footprint : ![Complete Speaky](Assets/PCB.png)
 
 ### Firmware Overview:
 Currently Firmware is underdevelopment so there is some time to finished product.
@@ -31,7 +31,7 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 3. Test everything works
 4. Apply Epoxy layer(not neccessary though but better if we do) inside shell to prevent air from leaking
 5. Glue togetther the Speaker and Passive Radiater to Speaker holder (to prevent air from leaking) along with screws
-6. Screw Speaker holder and Top Mesh to Encloudure.
+6. Screw Speaker holder and Top Mesh to Enclosure.
 
 ### BOM Table
 |Name|Use|Quantity|Link|Distributer|
