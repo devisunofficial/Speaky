@@ -34,17 +34,10 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 6. Screw Speaker holder and Top Mesh to Encloudure.
 
 ### BOM Table
-|Name|Use|Quantity|Distributer|
+|Name|Use|Quantity|Link|Distributer|
 |-----|---|-------|-----------|
-|Battery|Power Source|1|Robu|
-|PCB|Main-Circuit|1|JLCPCB|
-|Toggle switch|On-Off|1|Amazon|
-|XIAO ESP32|Bluetooth SoC|1|Amazon|
-|Speaker|Main Driver|1|Parts Express|
-|Capacitive Touch Button|Pairing Mode|1|Amazon|
-|AirTight Glue|Prevent Air Leaking|1|Amazon|
-
-I have provided an extra 3D printing Part in PR folder in CAD Folder because rather then paying $88 in shipping.
-I didn't made that, and I don't have refinement in skills to make that.
-
-Also I have added all screenshots of Cart in Screenshots_Cart Folder
+|Passive Radiator| For Depth| [Link](https://www.daytonaudio.com/product/1552/nd65-pr-2-1-2-aluminum-cone-passive-radiator)|Dayton Audio|
+|Speaker|Main Driver|1|[Link](https://www.amazon.in/Dayton-Audio-DMA45-4-Aluminum-Full-Range/dp/B07N1YW3SV?crid=3V7R0WFBODGVD&dib=eyJ2IjoiMSJ9.ZovJ2FRQs3pmwyzB_tD3JRq4LaJKzlhPqWikw9393H10BYXCIcvu9hzi35ROTbgVzwRGON-UKmSIxJZb096X-t3fNUy7ZwafTm0j-v9W8j7VAd_8-LCThV547bfVhP9NJ7Wi9YgXWHFZLfnOVMGbUS30ZCycVPFoQHI8esF8xiJo9Ei9W604bymV5dHSm5gL.1QMB5W2LyaJ6eF8SeeBaS8edQjG50gg-gWsAIbsoJMA&dib_tag=se&keywords=dayton+audio+dma45-4&nsdOptOutParam=true&qid=1783793906&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=dayton+Audio+DMA%2Caps%2C292&sr=8-1)|Amazon|
+|PCB|Main-Circuit|1|-|JLCPCB|
+|Battery|Power Source|1|[Link](https://robu.in/product/nova-125785-10000mah-3-7v-lipo-battery-pack/)|Robu|
+|Toggle switch|On-Off|1|[Link](https://www.amazon.in/RoboComp-Center-Rocker-Toggle-Switch/dp/B0GW1SK6Y5?dib=eyJ2IjoiMSJ9.1CwHqbAUYwizY1Z1K0WZdKre8CLLDpprYbmEb_9PNTWqyjohjF5RvFQHYgcRSr029HxOQ9XFU9Yd2WoFSByQLTZC4mpo1z00oP6VspIr7XqntChIDTYswrf3dJoaJTSpmRr7esG0u7r-XJnCxbD7MD168vrldx863bm8NWvZ2WL-OKQtGgTEFOjLlDHG3WGsgi2VIhzc2M38_9MY_n1VyhJtiu9AZsDnKbQQZl6pZYEsnpHDEuILOJHanJcoKXVOJf6PUo8NBcmJ2H5TxdEh0F4194ktdUkxSr8JhkX-HH0.AAfvh377-khgNbQY7kIIHbfBj4w8bifQznZzReEkcW0&dib_tag=se&qid=1781184118&refinements=p_n_g-1003565985111%3A61707331031&s=industrial&xpid=CJ1-0rXLg6M1t&th=1)|Amazon|
