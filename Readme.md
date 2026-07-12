@@ -35,7 +35,7 @@ This speaker uses C++ firmware and Arduino IDE for Flashing.
 
 ### BOM Table
 |Name|Use|Quantity|Link|Distributer|
-|----|---|-------_|--_-|-----------|
+|----|---|--------|----|-----------|
 |Passive Radiator| For Depth| [Link](https://www.daytonaudio.com/product/1552/nd65-pr-2-1-2-aluminum-cone-passive-radiator)|Dayton Audio|
 |Speaker|Main Driver|1|[Link](https://www.amazon.in/Dayton-Audio-DMA45-4-Aluminum-Full-Range/dp/B07N1YW3SV?crid=3V7R0WFBODGVD&dib=eyJ2IjoiMSJ9.ZovJ2FRQs3pmwyzB_tD3JRq4LaJKzlhPqWikw9393H10BYXCIcvu9hzi35ROTbgVzwRGON-UKmSIxJZb096X-t3fNUy7ZwafTm0j-v9W8j7VAd_8-LCThV547bfVhP9NJ7Wi9YgXWHFZLfnOVMGbUS30ZCycVPFoQHI8esF8xiJo9Ei9W604bymV5dHSm5gL.1QMB5W2LyaJ6eF8SeeBaS8edQjG50gg-gWsAIbsoJMA&dib_tag=se&keywords=dayton+audio+dma45-4&nsdOptOutParam=true&qid=1783793906&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sprefix=dayton+Audio+DMA%2Caps%2C292&sr=8-1)|Amazon|
 |PCB|Main-Circuit|1|-|JLCPCB|
